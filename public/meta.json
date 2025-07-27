@@ -1,11 +1,39 @@
 {
   "title": "Theme Customizer",
-  "category": ["Web Development", "UI/UX", "Design Tools"],
+  "category": "Tools",
   "description": "Interactive theme customization tool built with Next.js and shadcn/ui. Create, preview, and export custom color themes with real-time feedback and click-to-edit functionality.",
   "image": "https://www.nicbrem.com/theme-customizer/theme-customizer-preview.png",
   "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Radix UI"],
   "status": "live",
   "year": "2025",
   "impact": "Enables developers and designers to create custom color themes through an intuitive visual interface, with real-time preview and multiple export formats for seamless integration into projects.",
-  "url": "https://nicbrem.com/theme-customizer"
-} 
+  "url": "https://nicbrem.com/theme-customizer",
+  "company": "Personal Project",
+  "role": "Full Stack Developer",
+  "duration": "2025",
+  "outcomes": [
+    "Real-time theme preview functionality",
+    "Multiple export format support",
+    "Intuitive visual interface for theme creation"
+  ],
+  "techStack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Radix UI"],
+  "modalContent": {
+    "overview": "Built an interactive theme customization tool that allows developers and designers to create, preview, and export custom color themes with real-time feedback and click-to-edit functionality.",
+    "challenges": [
+      "Real-time color scheme updates and preview",
+      "Multiple export format support",
+      "Intuitive visual interface design"
+    ],
+    "solutions": [
+      "Implemented real-time preview with React state management",
+      "Created multiple export formats (CSS, JSON, Tailwind config)",
+      "Built intuitive drag-and-drop and click-to-edit interfaces"
+    ],
+    "results": [
+      "Seamless theme creation workflow",
+      "Multiple export options for different use cases",
+      "Enhanced developer and designer productivity"
+    ],
+    "keyTechnologies": ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Radix UI"]
+  }
+}
