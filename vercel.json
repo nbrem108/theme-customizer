@@ -1,9 +1,10 @@
 {
   "headers": [
     {
-      "source": "/theme-customizer/meta.json",
+      "source": "/meta.json",
       "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "*" }
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Content-Type", "value": "application/json" }
       ]
     }
   ]
